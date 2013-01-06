@@ -7,6 +7,6 @@ wget https://raw.github.com/simoncadman/niftyrepo-layman/master/repositories.xml
 
 layman -S
 layman -a niftyrepo
-
+layman -s niftyrepo
 
 
