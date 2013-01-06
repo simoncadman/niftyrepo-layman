@@ -1,5 +1,4 @@
-# Copyright 1999-2006 Gentoo Foundation
-# Distributed under the terms of the GNU General Public License v2
+# Copyright 2013 Simon Cadman
 # $Header: $
 
 inherit git-2 eutils
