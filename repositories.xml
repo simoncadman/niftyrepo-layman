@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[niftyrepo]]></name>
+    <description><![CDATA[niftyrepo's experimental overlay]]></description>
+    <homepage>http://www.niftiestsoftware.com</homepage>
+    <owner>
+      <email>src@niftiestsoftware.com</email>
+      <name><![CDATA[Simon Cadman]]></name>
+    </owner>
+    <source type="tar">http://niftyrepo.niftiestsoftware.com/overlay.tar.bz2</source>
+  </repo>
+</repositories>
